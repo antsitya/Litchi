@@ -1,0 +1,46 @@
+[{
+    "msgId" : "1111",
+    "userface" : "/Litchi/images/userface1.jpg",
+    "userName" : "灏忕帇",
+    "userAsk" : "椹摜浣犲ソ锛岃闂綘杩欎釜妯＄増鐢ㄧ殑鏄粈涔堟鏋跺晩锛�",
+    "askTime" : "2017-05-27 12:50",
+    "msgReply" : [{
+        "userface" : "/Litchi/images/face.jpg",
+        "userName" : "璇峰彨鎴戦┈鍝�",
+        "userAsk" : "鐢ㄧ殑layui锛岃搐蹇冨ぇ绁炲紑鍙戠殑鍓嶇妗嗘灦",
+        "askTime" : "2017-05-27 13:50"
+    }]
+},{
+    "msgId" : "2222",
+    "userface" : "/Litchi/images/userface2.jpg",
+    "userName" : "灏忔潕",
+    "userAsk" : "椹摜浣犲ソ锛岃闂綘澶氬ぇ浜嗭紵",
+    "askTime" : "2017-05-27 12:50",
+    "msgReply" : []
+},{
+    "msgId" : "3333",
+    "userface" : "/Litchi/images/userface3.jpg",
+    "userName" : "灏忚档",
+    "userAsk" : "椹摜浣犲ソ锛岃闂綘瀹舵槸鍝殑锛�",
+    "askTime" : "2017-05-27 12:50",
+    "msgReply" : []
+},{
+    "msgId" : "4444",
+    "userface" : "/Litchi/images/userface4.jpg",
+    "userName" : "灏忛珮",
+    "userAsk" : "椹摜浣犲ソ锛岃闂綘鏈夋病鏈夊コ鏈嬪弸鍟婏紵",
+    "askTime" : "2017-05-27 12:50",
+    "msgReply" : [{
+        "userface" : "/Litchi/images/face.jpg",
+        "userName" : "璇峰彨鎴戦┈鍝�",
+        "userAsk" : "杩欎釜璨屼技鍜屾妧鏈棤鍏冲惂锛岄毦閬撲綘鎯崇粰鎴戝綋鑰佸﹩锛屽懙鍛点�傘�傘��",
+        "askTime" : "2017-05-27 13:50"
+    }]
+},{
+    "msgId" : "5555",
+    "userface" : "/Litchi/images/userface5.jpg",
+    "userName" : "灏忔",
+    "userAsk" : "椹摜浣犲ソ锛岃闂綘涓�涓湀宸ヨ祫澶氬皯鍟婏紵",
+    "askTime" : "2017-05-27 12:50",
+    "msgReply" : []
+}]
