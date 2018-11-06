@@ -1,0 +1,14 @@
+Index: .classpath
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .classpath	(revision b32f07ea6c9dc806f801d5bb9bfb5b274fd3f0d5)
++++ .classpath	(date 1539488493433)
+@@ -25,6 +25,5 @@
+ 	</classpathentry>
+ 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_161"/>
+ 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0"/>
+-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_161"/>
+ 	<classpathentry kind="output" path="target/classes"/>
+ </classpath>
